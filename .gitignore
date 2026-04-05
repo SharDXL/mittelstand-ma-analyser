@@ -1,0 +1,32 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (exclude raw licensed data — only sample stays)
+data/raw/*.csv
+data/processed/*.csv
+!data/raw/sample_deals.csv
+
+# Outputs (keep charts but not large exports)
+outputs/commentary/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

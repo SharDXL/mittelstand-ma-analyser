@@ -1,0 +1,41 @@
+deal_id,date,target_name,target_sector,target_country,acquirer_name,acquirer_type,deal_value_eur_m,ev_ebitda,deal_status,deal_type
+D001,2019-03-14,TechMittel GmbH,Technology,Germany,Siemens AG,Strategic,120,9.2,Completed,Acquisition
+D002,2019-05-22,AutoZulieferer GmbH,Automotive,Germany,Bosch GmbH,Strategic,85,7.8,Completed,Acquisition
+D003,2019-07-11,MediGerät GmbH,Healthcare,Germany,Nordic Capital,PE,210,11.4,Completed,Acquisition
+D004,2019-09-03,LogisTrans GmbH,Logistics,Germany,DB Schenker,Strategic,65,8.1,Completed,Acquisition
+D005,2019-11-19,SoftwareHaus AG,Technology,Germany,Vista Equity Partners,PE,340,13.2,Completed,Acquisition
+D006,2020-01-08,ChemieProd GmbH,Chemicals,Germany,LANXESS AG,Strategic,95,6.9,Completed,Acquisition
+D007,2020-03-25,BauTech GmbH,Construction,Germany,Vinci SA,Strategic,55,7.1,Completed,Acquisition
+D008,2020-06-17,HealthCare360 GmbH,Healthcare,Germany,Fresenius SE,Strategic,180,10.8,Completed,Acquisition
+D009,2020-08-04,RenewPower GmbH,Energy,Germany,Ardian,PE,290,9.7,Completed,Acquisition
+D010,2020-10-22,FoodProcess AG,Food & Beverage,Germany,Nestlé SA,Strategic,140,8.5,Completed,Acquisition
+D011,2021-01-15,DataDriven GmbH,Technology,Germany,Hg Capital,PE,420,14.1,Completed,Acquisition
+D012,2021-03-09,AutoElektrik GmbH,Automotive,Germany,Continental AG,Strategic,110,8.9,Completed,Acquisition
+D013,2021-05-27,MedDevice GmbH,Healthcare,Germany,EQT,PE,380,12.7,Completed,Acquisition
+D014,2021-07-14,LogiNet AG,Logistics,Germany,DHL Group,Strategic,75,7.4,Completed,Acquisition
+D015,2021-09-30,CloudSoft GmbH,Technology,Germany,SAP SE,Strategic,510,15.8,Completed,Acquisition
+D016,2021-11-18,GreenChem AG,Chemicals,Germany,Advent International,PE,155,8.2,Completed,Acquisition
+D017,2022-02-03,IndustrieMasch GmbH,Industrials,Germany,Atlas Copco AB,Strategic,200,9.1,Completed,Acquisition
+D018,2022-04-19,BioHealth GmbH,Healthcare,Germany,Bain Capital,PE,310,11.2,Completed,Acquisition
+D019,2022-06-08,EnergySys GmbH,Energy,Germany,RWE AG,Strategic,175,8.6,Completed,Acquisition
+D020,2022-08-25,RetailTech AG,Technology,Germany,Warburg Pincus,PE,265,10.4,Completed,Acquisition
+D021,2022-10-12,AutoParts GmbH,Automotive,Germany,ZF Friedrichshafen,Strategic,90,6.5,Completed,Acquisition
+D022,2022-12-01,FoodBev GmbH,Food & Beverage,Germany,CVC Capital Partners,PE,130,7.8,Completed,Acquisition
+D023,2023-01-24,SaaSPlatform GmbH,Technology,Germany,Thoma Bravo,PE,480,12.3,Completed,Acquisition
+D024,2023-03-14,MedTech Solutions GmbH,Healthcare,Germany,Stryker Corp,Strategic,225,9.8,Completed,Acquisition
+D025,2023-05-03,ChemSpec AG,Chemicals,Germany,IMCD Group,Strategic,80,7.2,Completed,Acquisition
+D026,2023-07-19,LogiRoute GmbH,Logistics,Germany,DSV A/S,Strategic,60,6.8,Completed,Acquisition
+D027,2023-09-06,AutoFutur GmbH,Automotive,Germany,Bridgepoint,PE,145,8.1,Completed,Acquisition
+D028,2023-11-22,DigitalSys GmbH,Technology,Germany,Permira,PE,390,11.5,Completed,Acquisition
+D029,2024-01-10,BioProcess GmbH,Healthcare,Germany,Sartorius AG,Strategic,190,9.4,Completed,Acquisition
+D030,2024-03-05,EnergyStore AG,Energy,Germany,Brookfield Asset Mgmt,PE,320,8.9,Completed,Acquisition
+D031,2024-05-17,AutoDrive GmbH,Automotive,Germany,Bosch GmbH,Strategic,160,7.6,Completed,Acquisition
+D032,2024-07-28,SoftServ GmbH,Technology,Germany,Francisco Partners,PE,275,10.8,Completed,Acquisition
+D033,2024-09-11,MedEquip GmbH,Healthcare,Germany,Getinge AB,Strategic,140,8.7,Completed,Acquisition
+D034,2024-11-04,IndustrialAuto AG,Industrials,Germany,Danaher Corp,Strategic,410,9.3,Completed,Acquisition
+D035,2019-04-18,IndustrialParts GmbH,Industrials,Germany,Parker Hannifin,Strategic,75,8.0,Completed,Acquisition
+D036,2020-07-14,ConstructBau AG,Construction,Germany,Strabag SE,Strategic,45,6.5,Completed,Acquisition
+D037,2021-08-20,FoodTech GmbH,Food & Beverage,Germany,Ardian,PE,170,9.1,Completed,Acquisition
+D038,2022-03-07,MedLab GmbH,Healthcare,Germany,IK Partners,PE,115,10.2,Completed,Acquisition
+D039,2023-06-15,IndusChem GmbH,Chemicals,Germany,BASF SE,Strategic,230,7.9,Completed,Acquisition
+D040,2024-02-22,SmartLogix GmbH,Technology,Germany,KKR,PE,540,13.6,Completed,Acquisition
