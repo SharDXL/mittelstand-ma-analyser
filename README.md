@@ -109,5 +109,3 @@ A written 2-page commentary on the most active Mittelstand sector will be publis
 `Python` `pandas` `matplotlib` `Plotly` `Tableau` `M&A Analysis` `EV/EBITDA` `Sector Research` `Data Pipeline` `Financial Commentary`
 
 ---
-
-*This project is part of a finance portfolio built in preparation for a career in Investment Banking and Asset Management in Europe.*
