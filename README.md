@@ -3,8 +3,10 @@
 > An end-to-end analysis of M&A deal activity in Germany's Mittelstand (SME) sector, covering deal volume, sector concentration, acquirer types, and EV/EBITDA valuation trends.
 
 **Author:** Shardul Pundir
-**Background:** MSc Finance, WHU Otto Beisheim School of Management (2026) | CFA Level I
+**Background:** MSc Finance, WHU Otto Beisheim School of Management (2026 intake) | CFA Level I
 **LinkedIn:** [linkedin.com/in/shardulpundir](https://linkedin.com/in/shardulpundir)
+
+> ⚠️ **Data Disclaimer:** This project is built entirely on **hypothesised, sample data** generated to simulate realistic Mittelstand M&A deal activity. It does not use any proprietary database (Mergermarket, Bloomberg, Refinitiv, etc.) and no real transaction data has been sourced or included. The project is designed as a **technical and analytical framework** — demonstrating pipeline architecture, valuation methodology, and financial reasoning — not as a factual study of actual deal flows. All figures, multiples, and trends are illustrative only.
 
 ---
 
@@ -55,14 +57,15 @@ mittelstand-ma-analyser/
 
 ## Data Sources
 
-| Source | What It Provides | Access |
-|--------|-----------------|--------|
-| Mergermarket | Comprehensive M&A deal database | Free trial (14 days) |
-| Refinitiv / LSEG Workspace | Deal data + financials | WHU library access (from Sep 2026) |
-| Bloomberg Terminal | Company financials, multiples | WHU library access |
-| Manual research | Deal press releases, company IRs | Public |
+| Source | What It Provides | Status in This Project |
+|--------|-----------------|------------------------|
+| Mergermarket | Comprehensive M&A deal database | Not accessed — institutional subscription required |
+| Refinitiv / LSEG Workspace | Deal data + financials | Not accessed — institutional subscription required |
+| Bloomberg Terminal | Company financials, multiples | Not accessed — institutional subscription required |
+| Manual research | Deal press releases, company IRs | Referenced for structural design only |
+| **Hypothesised sample data** | Simulated deal records modelled on public Mittelstand M&A patterns | **This is the actual data used in this project** |
 
-**Note on data:** Raw data files are not included in this repository due to licensing restrictions. A sample anonymised dataset is provided in `data/raw/sample_deals.csv` to allow the pipeline to run end-to-end.
+**Note on data:** This project uses a fully hypothesised dataset (`data/raw/sample_deals.csv`) generated to reflect realistic Mittelstand M&A characteristics (sector mix, deal size ranges, acquirer types, EV/EBITDA multiples). No proprietary or licensed data sources have been accessed. The pipeline is designed so that real data — from Mergermarket, Refinitiv, or similar — can be dropped in once access is available, with no changes to the codebase.
 
 ---
 
@@ -109,3 +112,5 @@ A written 2-page commentary on the most active Mittelstand sector will be publis
 `Python` `pandas` `matplotlib` `Plotly` `Tableau` `M&A Analysis` `EV/EBITDA` `Sector Research` `Data Pipeline` `Financial Commentary`
 
 ---
+
+*This project is part of a finance portfolio built in preparation for a career in Investment Banking and Asset Management in Europe.*
